@@ -13,7 +13,14 @@
   padding: 80px 0;
 }
 
+/* Chamada Principal*/
 .layout-chamada {
   padding: 80px 0;
   background-color: #7ab55c;
+}
+
+/* Depoimento */
+.layout-depoimento {
+  padding: 80px 0;
+  background-color: #e7e7e7;
 }
